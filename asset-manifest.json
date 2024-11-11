@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sdp-paams/static/css/main.0c5e76ff.css",
+    "main.js": "/sdp-paams/static/js/main.29360968.js",
+    "static/js/453.258b012d.chunk.js": "/sdp-paams/static/js/453.258b012d.chunk.js",
+    "static/media/bg-video.mp4": "/sdp-paams/static/media/bg-video.d57dc1c346d23364d64c.mp4",
+    "static/media/fish.png": "/sdp-paams/static/media/fish.64f4a4900e70e9c3ede5.png",
+    "static/media/chimtu.png": "/sdp-paams/static/media/chimtu.8beefaa2e18d9043227d.png",
+    "static/media/bird.png": "/sdp-paams/static/media/bird.39d05833198f7976d2c7.png",
+    "static/media/bg-login.jpg": "/sdp-paams/static/media/bg-login.95064c6798732a0b0861.jpg",
+    "static/media/cat.png": "/sdp-paams/static/media/cat.d46c6f0789c03efbc915.png",
+    "static/media/dog.png": "/sdp-paams/static/media/dog.832c77f31574ade5d8d9.png",
+    "static/media/time.gif": "/sdp-paams/static/media/time.21ea4ade1b7991cd8a8e.gif",
+    "static/media/adopt.png": "/sdp-paams/static/media/adopt.b28d7c39870efbbef8b3.png",
+    "static/media/search.gif": "/sdp-paams/static/media/search.88e14b466ba048ee60bc.gif",
+    "index.html": "/sdp-paams/index.html",
+    "main.0c5e76ff.css.map": "/sdp-paams/static/css/main.0c5e76ff.css.map",
+    "main.29360968.js.map": "/sdp-paams/static/js/main.29360968.js.map",
+    "453.258b012d.chunk.js.map": "/sdp-paams/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c5e76ff.css",
+    "static/js/main.29360968.js"
+  ]
+}
